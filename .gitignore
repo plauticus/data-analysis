@@ -1,4 +1,6 @@
-*.dat id_rsa id_rsa.pub
+*.npy
+id_rsa
+id_rsa.pub
 
 
 
